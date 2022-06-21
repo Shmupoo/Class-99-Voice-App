@@ -1,0 +1,14 @@
+img {
+    width: 30%;
+    border-radius: 50px;
+}
+
+textarea {
+    width: 300px;
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+}
+
